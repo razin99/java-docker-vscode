@@ -32,6 +32,6 @@ docker run -dit --name dev -v cs2511:/cs2511 oracle-jdk-11:latest
 * for a leaner (smaller) deployment footprint, maybe use alpine instead
 
 # TODO:
-    [ ] Add an initialisation script
-    [ ] Add a run script (it should start with the desired terminal, and pull
-        in latest changes)
+* [ ] Add an initialisation script
+* [ ] Add a run script (it should start with the desired terminal, and pull in
+  latest changes)
