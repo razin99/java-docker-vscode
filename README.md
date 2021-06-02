@@ -1,3 +1,8 @@
+# What is this?
+This helps if you want to use java in docker. I'm currently using this for
+COMP2511 in 21T2. You may need to edit `run.sh` and/or `init.sh` to suite your
+needs
+
 # Pre-requisite
 Download `jdk-11.0.11_linux-x64_bin.tar.gz` from oracle, you may need to sign
 in. If you want to use a different version, you'll need to modify the
